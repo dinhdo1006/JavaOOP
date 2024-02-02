@@ -19,7 +19,7 @@ public class slide74chuong2 {
             Tong+=A[i];
         }
     }
-    System.out.println("Tongg:" +Tong);
+    System.out.println("Tong:" +Tong);
 }
 
 }
