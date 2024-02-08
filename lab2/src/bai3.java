@@ -13,10 +13,11 @@ public class bai3 {
             nhomTuoi = " o do tuoi vi thanh nien.";
             } else if (tuoi >= 16 || tuoi < 18) {
                 nhomTuoi = " tuoi truong thanh. " ;
-            } else{
-                nhomTuoi = " gia roi !";
+             if(tuoi >= 18) {
+                nhomTuoi = " gia roi!";
             }
  System.out.println(" Ban " + ten + " thuoc  nhom  " +  nhomTuoi);
         }
 
-        }
+    }
+}
