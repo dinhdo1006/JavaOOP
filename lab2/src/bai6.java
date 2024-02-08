@@ -4,6 +4,7 @@ public class bai6 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n,answer = 1; // Khoi tao gia tri
+        
 
         do { 
             System.out.print("Nhap gia tri cho n : ");
